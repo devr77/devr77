@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **HealthCare Project**
 
-- 🌱 I’m currently learning **Data Structure And Aalgorithm ,Devops ,Data Science**
+- 🌱 I’m currently learning **Data Structure And Algorithm ,Devops ,Data Science**
 
 - 💬 Ask me about **Software development**
 
