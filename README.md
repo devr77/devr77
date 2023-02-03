@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **draj56699@gmail.com**
 
-- ⚡ Fun fact **I Can code in 5 Language**
+- ⚡ Fun fact **When you work on a computer your hands travel 20 kilometres a day!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
