@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
-<h3 align="center">I am developer and aspiring tech Entrepreneur</h3>
+<h3 align="center">I am Full Stack developer and aspiring tech Entrepreneur</h3>
 
 - 🔭 I’m currently working on **HealthCare Project**
 
