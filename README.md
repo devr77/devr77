@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
 <h3 align="center">I am Full Stack developer and aspiring tech Entrepreneur</h3>
 
-- 🔭 I’m currently working on **HealthCare Project**
+- 🔭 I’m currently working on **HealthCare Project And Social Engine**
 
 - 🌱 I’m currently learning **Data Structure And Algorithm ,Devops ,Data Science**
 
