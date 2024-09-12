@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **React,NodeJs, Backend Development.**
 
-- 📫 How to reach me **draj56699@gmail.com**
 
 - ⚡ Fun fact **When you work on a computer your hands travel 20 kilometres a day**
 
