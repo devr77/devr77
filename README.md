@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
-- 🔭 I’m currently working on HealthCare Project And Social Engine.
+- 🔭 I’m currently working on Next Gen Ai Stff. 
 
 - 🌱 I’m currently learning **Data Structure And Algorithm ,Devops ,Data Science.**
 
